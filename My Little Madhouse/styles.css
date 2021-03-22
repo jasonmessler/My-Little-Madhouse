@@ -1,0 +1,52 @@
+body {
+    background: black;
+}
+
+header {
+    background-color: black;
+    margin: 20px
+}
+
+
+/*header .logo a {
+    background-image: url("https://i.etsystatic.com/isla/aa28e6/42159193/isla_180x180.42159193_meol8yyl.jpg?version=0");
+    background-repeat: no-repeat;
+}*/
+
+section {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    color: red;
+}
+
+h3 {
+    color: rgb(15, 218, 184);
+}
+
+button {
+    background: grey;
+}
+
+
+/*div {
+    background-color: rgb(228, 67, 155);
+    margin: auto;
+    width: 200px;
+}*/
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin: 20px;
+}
+
+label {
+    color: red;
+}
